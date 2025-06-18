@@ -1,93 +1,58 @@
-<h1 align="center">Hey there! I'm <span style="color:#00bcd4">Akshat Jain</span> 👋</h1>
+<!-- Profile README by Akshat Jain - Vibrant & Modern Style -->
 
+<h1 align="center">Hey there, I'm Akshat Jain! 👋</h1>
 <p align="center">
-  🚀 <b>Aspiring Full Stack Developer</b> | 👨‍💻 Web & Mobile Enthusiast | 💡 Lifelong Learner
-</p>
-
-<p align="center">
-  <a href="mailto:akshatjain70233@gmail.com"><img src="https://img.shields.io/badge/Gmail-akshatjain70233@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/withakshat/"><img src="https://img.shields.io/badge/LinkedIn-withakshat-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://akshat-jain-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-Visit-orange?style=for-the-badge&logo=vercel"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%2F+Next.js+%2F+MERN+Stack+Engineer+%E2%9A%99%EF%B8%8F;Mobile+Dev+with+React+Native+%F0%9F%94%8C;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Open+to+Collaboration+%F0%9F%92%C3%97" />
 </p>
 
 ---
 
-## 🔥 About Me
-
-- 🎓 B.Tech (IT) @ Rajasthan Technical University (2022–26)
-- 💻 Skilled in **MERN**, **Next.js**, **React Native**, **Prisma**, **Docker**, **Redis**
-- 🛠️ Building **AI-powered** & **real-time apps** with cutting-edge tech
-- 🌱 Open to internships, freelance work & tech collaborations
-
----
-
-## 💼 Experience
-
-### 💻 Celebal Technologies — *Frontend Developer Intern*  
-📍 Jaipur, India | 🗓️ May 2025 – Present
-- ⚙️ Built scalable React.js modules (form validation, task manager)
-- 📊 Created admin dashboards using charts & Kanban boards
-- 🛒 Contributing to full-stack e-commerce platform development
-
-### 🖥️ Welspun Living Limited — *Frontend Web Developer Intern*  
-📍 Mumbai, India | 🗓️ June – July 2024
-- ⚡ Improved performance by 30% & responsiveness across 10+ devices
-- 🔄 Integrated REST APIs and optimized UI using Redux
-
----
-
-## 🚀 Projects
-
-### 🔷 Intelli Wheels [Live](https://intelli-wheels-akshat.vercel.app/) • [GitHub](https://github.com/Akshat090803/Intelli-Wheels)
-- 🤖 AI-powered image search using Gemini API
-- 📆 Features: test drive, EMI calculator, admin dashboard
-- 🛠️ Stack: Next.js, Supabase, Prisma, Clerk, Tailwind CSS
-
-### 🧠 Flux AI [Live](https://flux-ai-akshat.vercel.app/) • [GitHub](https://github.com/Akshat090803/Flux-Ai)
-- 📄 Resume & cover letter generation via AI
-- 🎤 Mock interviews & weekly job insights
-- 🛠️ Stack: Next.js, Inngest, PostgreSQL, Tailwind CSS
-
-### 📸 Instagram Clone [Live](https://social-media-mern-project.onrender.com/) • [GitHub](https://github.com/Akshat090803/Social-Media-Mern-Project)
-- 🧾 Full-stack auth, posts, likes, comments
-- 🔔 Real-time messaging, feed & notifications
-- 🛠️ Stack: React.js, MongoDB, Node, Redux, Socket.IO
-
----
-
-## 🧠 Tech Stack
-
-```ts
-🧑‍💻 Languages:     C++, JavaScript, TypeScript, SQL
-🔧 Frameworks:     React.js, Next.js, Node.js, Express.js, React Native
-🗄️ Databases:      MongoDB, MySQL, Redis
-🛠️ Tools:          Git, Docker, Postman, VS Code
-🧩 Concepts:       Microservices, DSA, Clean Architecture
-```
-
----
-
-## 📊 GitHub Stats
+### 🔗 Let's Connect & Collaborate!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akshat090803&show_icons=true&theme=tokyonight&border_radius=10" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akshat090803&theme=tokyonight" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Akshat090803&bg_color=0d1117&color=00bcd4&line=00bcd4&point=ffffff&area=true&hide_border=true"/>
+  <a href="mailto:akshatjain70233@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/withakshat" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://akshat-jain-portfolio.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23FF00FF?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/with_akshat" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/user/akshatja0zdw/" target="_blank">
+    <img src="https://img.shields.io/badge/GFG-1f8b4c?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🛠️ Tech Stack I Love
 
-- 📩 Email: [akshatjain70233@gmail.com](mailto:akshatjain70233@gmail.com)
-- 🌐 Portfolio: [akshat-jain-portfolio.netlify.app](https://akshat-jain-portfolio.netlify.app)
-- 💼 LinkedIn: [linkedin.com/in/withakshat](https://linkedin.com/in/withakshat)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,typescript,js,redux,docker,figma,git" />
+</p>
+
+---
+
+### 🎓 Education
+
+📍 **Rajasthan Technical University**  
+🎓 *Bachelor of Technology in Information Technology*  
+📅 *May 2022 – Present*  
+📈 *CGPA: 9.82*  
+📚 *Core Subjects: DSA, OS, DBMS, AI, Networking, Web Technology*
+
+---
+
+### 💬 Fun Fact
+
+> I love merging design with logic — whether it’s building intuitive UIs, scaling backend APIs, or exploring the latest AI integrations. Let’s code something extraordinary together! ✨
 
 ---
 
 <p align="center">
-  <i>Crafted with ❤️ by Akshat Jain</i>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=footer" />
 </p>
