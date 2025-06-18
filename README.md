@@ -7,13 +7,13 @@
 
 ---
 
-### 👨‍💼 About Me
+### 💼 About Me
 
-```ts
-💡 Aspiring Full Stack Developer with a passion for building sleek UIs, scalable APIs, and mobile-first experiences.
-🧠 Strong grip on DSA, Microservices, and Clean Architecture.
-🚀 Actively contributing to React, Next.js, and MERN stack projects.
-🌱 Currently diving deeper into AI integrations and system design!
+```txt
+💡 I’m an aspiring Full Stack Developer (React, Node.js, React Native) with a strong foundation in DSA and system design.
+🚀 I enjoy turning complex problems into intuitive, performant solutions.
+🎨 Passionate about clean UI/UX, scalable architecture, and AI-powered apps.
+📍 Based in Kota, Rajasthan | Actively seeking internship & collaboration opportunities.
 ```
 
 ---
