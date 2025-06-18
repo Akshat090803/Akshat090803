@@ -10,10 +10,10 @@
 ### 💼 About Me
 
 ```txt
-💡 I’m an aspiring Full Stack Developer (React, Node.js, React Native) with a strong foundation in DSA and system design.
-🚀 I enjoy turning complex problems into intuitive, performant solutions.
-🎨 Passionate about clean UI/UX, scalable architecture, and AI-powered apps.
-📍 Based in Kota, Rajasthan | Actively seeking internship & collaboration opportunities.
+💡 Aspiring Full Stack Developer skilled in React, Next.js, Node.js, and React Native with a strong foundation in DSA and system design.  
+🚀 Passionate about building intuitive UIs and scalable, AI-powered web & mobile applications.  
+🎓 B.Tech IT student (CGPA: 9.82) at Rajasthan Technical University, focused on solving real-world problems through clean architecture.  
+🤝 Based in Kota, Rajasthan — actively seeking internship and collaboration opportunities in cutting-edge tech domains.
 ```
 
 ---
