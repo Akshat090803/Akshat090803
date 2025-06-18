@@ -46,6 +46,14 @@
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgres,tailwind,typescript,js,redux,docker,figma,git" />
 </p>
 
+```ts
+🧑‍💻 Languages:     C++, JavaScript, TypeScript, SQL
+🔧 Frameworks:     React.js, Next.js, Node.js, Express.js, React Native
+🗄️ Databases:      MongoDB, MySQL, Redis
+🛠️ Tools:          Git, Docker, Postman, VS Code
+🧩 Concepts:       Microservices, DSA, Clean Architecture
+```
+
 ---
 
 ### 🎓 Education
