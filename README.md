@@ -61,7 +61,7 @@
 📍 **Rajasthan Technical University**  
 🎓 *Bachelor of Technology in Information Technology*  
 📅 *May 2022 – Present*  
-📈 *CGPA: 9.82*  
+📈 *CGPA: 9.74*  
 📚 *Core Subjects: DSA, OS, DBMS, AI, Networking, Web Technology*
 
 ---
